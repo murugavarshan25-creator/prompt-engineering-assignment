@@ -1,0 +1,14 @@
+write a json prompt for generating the pre engineering building PEB), steel structures, portal frames, and miniature construction ecosystems image
+{
+  "prompt": "A highly detailed miniature construction ecosystem showcasing a Pre-Engineered Building (PEB) under construction, featuring steel structures and portal frames. The scene includes workers assembling steel beams, cranes lifting large metal frames, and partially completed industrial sheds. The environment is realistic with construction vehicles, scaffolding, safety gear, and tools. The portal frames are prominently visible with bolted joints and structural symmetry. The setting is a clean industrial site with a mix of modern engineering and miniature diorama style, vibrant colors, cinematic lighting, and ultra-realistic textures.",
+  "style": "ultra-realistic, cinematic, miniature diorama",
+  "lighting": "soft daylight with dynamic shadows",
+  "camera_angle": "isometric view, slightly elevated",
+  "resolution": "1024x1024",
+  "details": {
+    "structures": ["pre-engineered building", "steel frames", "portal frames"],
+    "elements": ["cranes", "workers", "scaffolding", "construction vehicles"],
+    "environment": "industrial construction site",
+    "focus": "structural assembly and engineering precision"
+  }
+}
