@@ -1,1 +1,86 @@
-you are an expert in json prompting write a json prompt for generating the video for PEB • Workers actively installing columns, rafters, and purlins • Cranes lifting steel members • Time-lapse or slow-motion assembly of portal frames • Close-up shots of bolting, welding, and alignment • Environmental details like dust, light beams, and shadows shifting • Smooth camera motion (pan, tilt, zoom, macro tracking shots)
+you are an expert in json prompting write a json prompt for generating the video for PEB(pre engineering building) • Mix realism with miniature fantasy scale industrial steel erection audio
+{
+  "title": "Miniature Steel Giants – PEB Erection Cinematic",
+  "style": "ultra-realistic industrial with miniature diorama fantasy",
+  "resolution": "1920x1080",
+  "duration": "60-75 seconds",
+  "frame_rate": "30fps",
+
+  "core_concept": {
+    "theme": "Pre-Engineered Building (PEB) steel erection visualized as a miniature world",
+    "visual_blend": "accurate engineering logic combined with artistic miniature scale illusion",
+    "scale_contrast": "tiny workers vs विशाल steel beams, columns, and portal frames"
+  },
+
+  "visual_rules": [
+    "Maintain real-world structural accuracy (portal frames, anchor bolts, purlins)",
+    "Use tilt-shift and shallow depth of field for miniature effect",
+    "Highlight contrast between small human scale and massive steel members",
+    "Include realistic construction sequences and worker interactions",
+    "Add dust, sparks, and subtle motion blur for realism"
+  ],
+
+  "camera": {
+    "movement": ["macro tracking", "slow motion", "cinematic pan", "drone-style miniature sweep"],
+    "angles": ["extreme close-up", "low angle hero shot", "isometric miniature view"]
+  },
+
+  "lighting": {
+    "type": "natural daylight with industrial cinematic highlights",
+    "effects": ["golden hour glow", "metal reflections", "deep shadows for scale depth"]
+  },
+
+  "scenes": [
+    {
+      "name": "Mini Foundation Setup",
+      "prompt": "Tiny workers navigating विशाल concrete foundation grid, placing anchor bolts that appear like giant pillars, realistic textures with miniature tilt-shift effect"
+    },
+    {
+      "name": "Portal Frame Lift",
+      "prompt": "Crane lifting enormous steel portal frame towering over miniature workers, ropes guiding the frame, dramatic slow motion emphasizing scale difference"
+    },
+    {
+      "name": "Steel Erection Sequence",
+      "prompt": "Frames rising sequentially like a forest of steel, workers moving rapidly, sparks and welding light, realistic yet artistic miniature environment"
+    },
+    {
+      "name": "Macro Bolt Connection",
+      "prompt": "Extreme close-up of bolt tightening, bolt appears like a विशाल tower, tiny workers operating tools, high detail metallic texture"
+    },
+    {
+      "name": "Purlin Installation",
+      "prompt": "Mini workers installing purlins across large frames, walking along beams like bridges, repetitive structural geometry"
+    },
+    {
+      "name": "Completion Reveal",
+      "prompt": "Wide cinematic reveal of completed PEB structure towering above tiny workers, golden light, sense of achievement and scale"
+    }
+  ],
+
+  "audio": {
+    "type": "industrial steel erection soundscape",
+    "design": {
+      "primary_sounds": [
+        "heavy steel clanging and impact sounds",
+        "crane motor hum and cable tension creaks",
+        "metal bolt tightening clicks and torque sounds",
+        "welding sparks and electrical crackle"
+      ],
+      "spatial_audio": "enhanced depth with foreground macro sounds and distant construction ambience",
+      "scale_effect": "amplify small actions (bolt tightening, footsteps) to sound massive, reinforcing miniature illusion",
+      "background_layer": "low-frequency industrial rumble with rhythmic metallic beats"
+    }
+  },
+
+  "color_grading": "industrial steel tones with warm highlights and cool shadows",
+
+  "keywords": [
+    "PEB",
+    "steel erection",
+    "portal frame",
+    "miniature construction",
+    "industrial cinematic",
+    "scale contrast",
+    "engineering visualization"
+  ]
+}
